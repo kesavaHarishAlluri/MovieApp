@@ -30,6 +30,7 @@
     <div class="logo">Kids</div>
    <div class="logo">Telugu</div>
    <div class="logo">English</div>
+<div class="logo">hindi</div>
    
     <div style="flex:1"></div>
     <nav class="meta">Home • Movies • Series</nav>
