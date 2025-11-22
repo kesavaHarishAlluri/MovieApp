@@ -26,6 +26,9 @@
 <body>
   <header>
     <div class="logo">MiniPrime</div>
+    <div class="logo">Movies</div>
+    <div class="logo">Kids</div>
+   <div class="logo">Telugu</div>
     <div style="flex:1"></div>
     <nav class="meta">Home • Movies • Series</nav>
   </header>
